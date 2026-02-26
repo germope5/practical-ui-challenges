@@ -45,10 +45,20 @@ Por defecto, Vite levantará el proyecto en una URL similar a `http://localhost:
   Estilos globales básicos (reset simple, tipografía, layout principal).
 
 - `src/components/`  
-  Carpeta donde viven los **retos de UI** como componentes reutilizables.
+  Carpeta donde viven los **retos de UI** como componentes reutilizables.  
+  Cada componente tiene su propio `README.md` con detalles.
 
-  - `Autocomplete/Autocomplete.svelte`  
-    Primer reto: un componente de Autocomplete básico construido en Svelte.
+  - [Accordion](src/components/Accordion/README.md)
+  - [Autocomplete](src/components/Autocomplete/README.md)
+  - [Button](src/components/Button/README.md)
+  - [Clock](src/components/Clock/README.md)
+  - [ColorSquare](src/components/ColorSquare/README.md)
+  - [Counter](src/components/Counter/README.md)
+  - [Dropdown](src/components/Dropdown/README.md)
+  - [Greeting](src/components/Greeting/README.md)
+  - [ItemList](src/components/ItemList/README.md)
+  - [TextInput](src/components/TextInput/README.md)
+  - [Visibility](src/components/Visibility/README.md)
 
 ---
 
